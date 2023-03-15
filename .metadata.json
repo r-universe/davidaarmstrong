@@ -1,0 +1,20 @@
+[
+  {
+    "package": "clarkeTest",
+    "oncran": true
+  },
+  {
+    "package": "DAMisc"
+  },
+  {
+    "package": "factorplot",
+    "oncran": true
+  },
+  {
+    "package": "psre"
+  },
+  {
+    "package": "uwo4419",
+    "oncran": true
+  }
+]
