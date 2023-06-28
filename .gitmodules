@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "clarkeTest"]
 	path = clarkeTest
 	url = https://github.com/davidaarmstrong/clarketest
-	shallow = true
-	registered = true
 [submodule "factorplot"]
 	path = factorplot
 	url = https://github.com/davidaarmstrong/factorplot
-	shallow = true
-	registered = true
 [submodule "uwo4419"]
 	path = uwo4419
 	url = https://github.com/davidaarmstrong/uwo4419
-	shallow = true
-	registered = true
